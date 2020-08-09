@@ -34,6 +34,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Point of Sale Application for Small and Medium-scale Retail Bussiness][article]
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -43,3 +45,4 @@
 [website]: https://portfolio.satishbonam.tech
 [twitter]: https://twitter.com/satish__bonam
 [linkedin]: https://www.linkedin.com/in/satishbonam
+[article]: https://medium.com/@satish.b.s.kumar/point-of-sale-application-for-small-and-medium-scale-retail-bussiness-a81f02bba11
