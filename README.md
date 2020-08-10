@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="satishbonam's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=satishbonam&show_icons=true&hide_border=true" />
+<img align="left" alt="satishbonam's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=satishbonam&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://portfolio.satishbonam.tech
 [twitter]: https://twitter.com/satish__bonam
